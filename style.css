@@ -17,6 +17,7 @@ body {
     width: 250px !important;
   }
   #save {
+    position: absolute !important;
     padding: 9px 20px 9px 15px !important;
     top: 95px !important;
     right: 40px !important;
