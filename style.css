@@ -12,6 +12,24 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+@media only screen and (max-width: 540px) {
+  .input-box {
+    width: 250px !important;
+  }
+  #save {
+    padding: 9px 20px 9px 15px !important;
+    top: 95px !important;
+    right: 40px !important;
+  }
+  #create-notes-btn {
+    margin-left: 0px !important;
+    padding: 9px 20px 9px 15px !important;
+  }
+  #title img {
+    height: 70px;
+  }
+}
+
 .container {
   height: 90vh;
   width: 90%;
